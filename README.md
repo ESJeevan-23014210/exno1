@@ -185,3 +185,6 @@ df.fillna(0)
 </tr>
 <tr>
   <td width=50%>
+
+# Result
+The data cleaning has beeen done successfully.
